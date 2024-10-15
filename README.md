@@ -1,6 +1,6 @@
 # APLICACION PARA BUSQUEDA DE GIFS
 Esta app le permite a los usuarios buscar y mostrar GIFS utilizando la API de Giphy.
-## REQUISITOS:
+### REQUISITOS:
 -Navegardor web como google chrome, mozilla, firefox, safari, etc.
 -Conexion a internet.
 ## INSTRUCCIONES PARA EJECUTAR APLICACION:
